@@ -1,3 +1,5 @@
+![tm logo](https://github.com/mirbyte/Tampermonkey-Twitch-Scripts/assets/83219244/94fb953a-cfb5-4de0-9223-8048fb9a4396)
+
 
 Made with Tampermonkey 5.0.1.
 ### Amazon Prime Ad Remover
