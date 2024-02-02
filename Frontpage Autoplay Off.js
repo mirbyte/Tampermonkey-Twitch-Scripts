@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Pauses Twitch.tv frontpage carousel video that autoplays recommended streams.
-// @author       mirbyte
+// @author       mirbyte (https://github.com/mirbyte)
 // @match        https://www.twitch.tv/
 // @icon         https://banner2.cleanpng.com/20180513/xie/kisspng-twitch-computer-icons-logo-5af8037d689af0.0981376915262032614285.jpg
 // @grant        none
