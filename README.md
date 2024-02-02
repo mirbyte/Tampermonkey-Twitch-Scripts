@@ -1,6 +1,3 @@
-![tm logo](https://github.com/mirbyte/Tampermonkey-Twitch-Scripts/assets/83219244/94fb953a-cfb5-4de0-9223-8048fb9a4396)
-
-
 Made with Tampermonkey 5.0.1.
 ### Amazon Prime Ad Remover
 Only for users who don't use Amazon Prime and do not intend to use in the future. This script will get rid of annoying daily notifications.
