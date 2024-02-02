@@ -1,4 +1,4 @@
-Made with Tampermonkey 5.0.1. Project will continue in https://github.com/mirbyte/Violentmonkey-Twitch-Scripts
+Made with Tampermonkey 5.0.1. Project will continue in https://github.com/mirbyte/Violentmonkey-Twitch-Scripts with Violentmonkey.
 ## Amazon Prime Ad Remover
 Only for users who don't use Amazon Prime and do not intend to use in the future. This script will get rid of annoying daily notifications.
 
