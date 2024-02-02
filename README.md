@@ -9,4 +9,5 @@ Only for users who don't use Amazon Prime and do not intend to use in the future
 ## Frontpage Autoplay Off
 Pauses the autoplay of twitch.tv frontpage carousel.
 
-![autopause](https://github.com/mirbyte/Tampermonkey-Twitch-Scripts/assets/83219244/3c7d711d-edb2-4566-9305-19a6a8565f86)
+![autoplay](https://github.com/mirbyte/Tampermonkey-Twitch-Scripts/assets/83219244/569bc7e0-0c90-4822-93c1-f3972de4b689)
+
